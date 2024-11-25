@@ -1,0 +1,31 @@
+name: lime_slp_buddy
+description: "라임이의 SLP 퀴즈 도우미"
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  material_design_icons_flutter: ^7.0.7296
+  get: ^4.6.6
+  audioplayers: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/json/
+    - assets/audio/
