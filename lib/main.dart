@@ -13,6 +13,20 @@ void main() {
   runApp(const QuizApp());
 }
 
+enum DoumiState {
+  normal('0', 'assets/image/normal.png'),
+  wronginput('1', 'assets/image/wrong_input.png'),
+  wronganswer('2', 'assets/image/wrong_answer.png'),
+  correctanswer('3', 'assets/image/correct_answer.png');
+
+  const DoumiState(
+    this.code,
+    this.path,
+  );
+  final String code;
+  final String path;
+}
+
 class QuizApp extends StatelessWidget {
   const QuizApp({super.key});
 

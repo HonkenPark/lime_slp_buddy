@@ -1,0 +1,90 @@
+[
+    {
+        "word": "posture",
+        "descriptions": {
+            "meaning_k": "자세",
+            "meaning_e": "how one's body is positioned",
+            "sentence": "Poor _______ can lead to muscular problems.\n나쁜 자세는 근육 관련 문제들을 일으킬 수 있다."
+        }
+    },
+    {
+        "word": "pleasant",
+        "descriptions": {
+            "meaning_k": "즐거운, 유쾌한",
+            "meaning_e": "enjoyable or attractive",
+            "sentence": "We had a ________ evening playing board games.\n우리는 보드 게임을 하면서 즐거운 저녁 시간을 보냈다."
+        }
+    },
+    {
+        "word": "biology",
+        "descriptions": {
+            "meaning_k": "생물학 - 생물에 대해 공부하는 학문, 공부",
+            "meaning_e": "the science that studies living things",
+            "sentence": "The microscope has helped to make important discoveries in _______.\n현미경은 생물학에서 중요한 발견을 하는 것을 도와왔다."
+        }
+    },
+    {
+        "word": "bleed",
+        "descriptions": {
+            "meaning_k": "피를 흘리다",
+            "meaning_e": "to let out blood",
+            "sentence": "His nose ____ after getting hit by a ball yesterday.\n그는 어제 공에 맞아 코피가 났다."
+        }
+    },
+    {
+        "word": "fasten",
+        "descriptions": {
+            "meaning_k": "매다, 묶다, 채우다",
+            "meaning_e": "to close or to attach something",
+            "sentence": "I ________ the buttons on my coat to keep warm.\n나는 몸을 따뜻하게 하기 위해 코트의 단추를 채웠다."
+        }
+    },
+    {
+        "word": "react",
+        "descriptions": {
+            "meaning_k": "반응하다",
+            "meaning_e": "to act in response to or as a result of something",
+            "sentence": "Ann called his name, but he didn't _____.\n앤이 그의 이름을 불렀지만, 그는 반응하지 않았다."
+        }
+    },
+    {
+        "word": "conversation",
+        "descriptions": {
+            "meaning_k": "대화",
+            "meaning_e": "a talk between two or more people",
+            "sentence": "The British usually start a ____________ by talking about weather.\n영국인들은 보통 날씨 얘기를 하면서 대화를 시작한다."
+        }
+    },
+    {
+        "word": "opinion",
+        "descriptions": {
+            "meaning_k": "의견",
+            "meaning_e": "a feeling or thought about something",
+            "sentence": "He would not listen to other's _________.\n그는 다른 사람들의 의견을 들으려 하지 않는다."
+        }
+    },
+    {
+        "word": "marine",
+        "descriptions": {
+            "meaning_k": "바다의, 해양의",
+            "meaning_e": "relating to the sea",
+            "sentence": "______ life is threatened by water pollution.\n해양 생물이 수질 오염으로 인해 위협받고 있다."
+        }
+    },
+    {
+        "word": "caution",
+        "descriptions": {
+            "meaning_k": "경고하다, 주의를 주다",
+            "meaning_e": "to warn",
+            "sentence": "Mom always ________ me to watch out for strangers.\n엄마는 항상 나에게 낯선 사람을 조심하라고 주의를 준다."
+        }
+    },
+    {
+        "word": "caution",
+        "descriptions": {
+            "meaning_k": "조심, 경계",
+            "meaning_e": "the act of being very careful",
+            "sentence": "The man moved with _______ in the dark forest.\n그 남자는 어두운 숲속에서 조심스럽게 움직였다."
+        }
+    }
+]
