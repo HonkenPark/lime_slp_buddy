@@ -1,0 +1,82 @@
+[
+    {
+        "word": "plot",
+        "descriptions": {
+            "meaning_k": "(소설, 영화, 연극 등의) 구성, 줄거리",
+            "meaning_e": "the story of a book, movie, or play, etc.",
+            "sentence": "Write a love story with an interesting ____.\n흥미로운 줄거리로 사랑 이야기를 써라."
+        }
+    },
+    {
+        "word": "minor",
+        "descriptions": {
+            "meaning_k": "작은, 중요하지 않은",
+            "meaning_e": "not great in size, number, or importance",
+            "sentence": "I played a _____ part in the play, but I tried hard.\n나는 그 연극에서 작은 역할을 연기했지만 열심히 했다."
+        }
+    },
+    {
+        "word": "mate",
+        "descriptions": {
+            "meaning_k": "짝(한 쌍)의 한 쪽",
+            "meaning_e": "one of a pair of animals",
+            "sentence": "Chameleons turn light colors to attract a ____.\n카멜레온은 짝을 유혹하기 위해 밝은 색으로 변한다."
+        }
+    },
+    {
+        "word": "trust",
+        "descriptions": {
+            "meaning_k": "믿다, 신뢰하다",
+            "meaning_e": "to believe that someone is good and honest",
+            "sentence": "I _______ him to keep my secret from others.\n나는 그가 다른 사람들로부터 나의 비밀을 지켜줄 것이라고 믿었다."
+        }
+    },
+    {
+        "word": "laundry",
+        "descriptions": {
+            "meaning_k": "세탁물, 빨랫감",
+            "meaning_e": "clothes and towels to be washed",
+            "sentence": "He tossed in his dirty shirt on the pile of _______.\n그는 더러운 셔츠를 세탁물 더미 위로 던졌다."
+        }
+    },
+    {
+        "word": "pray",
+        "descriptions": {
+            "meaning_k": "기도하다, 기원하다",
+            "meaning_e": "to speak to a god asking for something",
+            "sentence": "They hold ceremonies to ____ for a good harvest.\n그들은 풍년을 기원하는 의식을 거행한다."
+        }
+    },
+    {
+        "word": "sore",
+        "descriptions": {
+            "meaning_k": "아픈",
+            "meaning_e": "feeling or affected by pain",
+            "sentence": "My knees were ____ from moving heavy boxes.\n무거운 상자들을 옮겨서 나는 무릎이 아팠다."
+        }
+    },
+    {
+        "word": "element",
+        "descriptions": {
+            "meaning_k": "요소, 성분",
+            "meaning_e": "a part of something",
+            "sentence": "Color is one of the most important ________ of art.\n색은 예술의 중요한 요소 중 하나이다."
+        }
+    },
+    {
+        "word": "settle",
+        "descriptions": {
+            "meaning_k": "자리잡다, 정착하다",
+            "meaning_e": "to choose a place as one's home",
+            "sentence": "The immigrants decided to ______ in the big city.\n이민자들은 대도시에 정착하기로 결정했다."
+        }
+    },
+    {
+        "word": "organ",
+        "descriptions": {
+            "meaning_k": "(인체의) 장기, 기관",
+            "meaning_e": "a part of the body with a specific function",
+            "sentence": "The stomach is the _____ that helps us digest food.\n위는 우리가 음식을 소화하도록 도와주는 기관이다."
+        }
+    }
+]

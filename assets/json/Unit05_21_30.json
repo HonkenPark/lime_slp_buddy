@@ -1,0 +1,90 @@
+[
+    {
+        "word": "command",
+        "descriptions": {
+            "meaning_k": "명령하다",
+            "meaning_e": "to tell someone to do something",
+            "sentence": "The general __________ the soldiers to attack.\n그 장군은 군사들에게 공격하라고 명령했다."
+        }
+    },
+    {
+        "word": "multiple",
+        "descriptions": {
+            "meaning_k": "많은, 복수의",
+            "meaning_e": "more than one",
+            "sentence": "The teacher made ________ copies of the report.\n선생님은 그 보고서를 여러 장 복사했다."
+        }
+    },
+    {
+        "word": "preview",
+        "descriptions": {
+            "meaning_k": "시사회",
+            "meaning_e": "a showing of a movie or play to a small audience before the public sees it",
+            "sentence": "Everyone stood up and cheered at the end of the movie _______.\n영화 시사회가 끝나자 모든 사람들이 기립 박수를 쳤다."
+        }
+    },
+    {
+        "word": "patience",
+        "descriptions": {
+            "meaning_k": "인내심, 참을성",
+            "meaning_e": "the ability to wait",
+            "sentence": "She lost her ________ and shouted at the kids.\n그녀는 참을성을 잃고 그 아이들에게 소리를 질렀다."
+        }
+    },
+    {
+        "word": "attitude",
+        "descriptions": {
+            "meaning_k": "태도, 사고방식",
+            "meaning_e": "the way one acts or feels about something",
+            "sentence": "She welcomed guests with a respectful ________.\n그녀는 예의 바른 태도로 손님들을 맞았다."
+        }
+    },
+    {
+        "word": "politician",
+        "descriptions": {
+            "meaning_k": "정치인",
+            "meaning_e": "someone who works in politics",
+            "sentence": "The __________ promised to build an international airport if elected.\n그 정치인은 당선되면 국제 공항을 건설하겠다고 약속했다."
+        }
+    },
+    {
+        "word": "philosophy",
+        "descriptions": {
+            "meaning_k": "철학",
+            "meaning_e": "the study of the meaning of the universe and of human life",
+            "sentence": "Socrates is called the father of Greek __________.\n소크라테스는 그리스 철학의 아버지로 불린다."
+        }
+    },
+    {
+        "word": "development",
+        "descriptions": {
+            "meaning_k": "발달, 발전",
+            "meaning_e": "the process of growth or improvement",
+            "sentence": "Rivers have played a significant role in the ___________ of cities.\n강은 도시의 발전에 중요한 역할을 해 왔다."
+        }
+    },
+    {
+        "word": "embarrassed",
+        "descriptions": {
+            "meaning_k": "당황스러운",
+            "meaning_e": "feeling foolish or ashamed",
+            "sentence": "I felt ___________ after slipping on the floor.\n나는 바닥에 미끄러진 후 창피했다."
+        }
+    },
+    {
+        "word": "besides",
+        "descriptions": {
+            "meaning_k": "더욱이, 게다가",
+            "meaning_e": "in addition to something",
+            "sentence": "I was too tired to swim, and _______ the water was cold.\n나는 수영하기에는 너무 피곤했고 게다가 물은 차가웠다."
+        }
+    },
+    {
+        "word": "besides",
+        "descriptions": {
+            "meaning_k": "~ 외에",
+            "meaning_e": "except for",
+            "sentence": "He has no hobbies _______ collecting model cars.\n그는 모형 자동차를 모으는 것 외에 다른 취미는 없다."
+        }
+    }
+]

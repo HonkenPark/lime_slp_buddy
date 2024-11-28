@@ -1,0 +1,90 @@
+[
+    {
+        "word": "debate",
+        "descriptions": {
+            "meaning_k": "토론",
+            "meaning_e": "a talk between people who disagree on an issue",
+            "sentence": "The ______ continued for hours with no break.\n토론은 휴식 없이 몇 시간 동안 계속되었다."
+        }
+    },
+    {
+        "word": "awful",
+        "descriptions": {
+            "meaning_k": "끔찍한, 지독한",
+            "meaning_e": "very bad or unpleasant",
+            "sentence": "There was an _____ smell in the warehouse.\n창고에서 지독한 냄새가 났다."
+        }
+    },
+    {
+        "word": "decade",
+        "descriptions": {
+            "meaning_k": "10년",
+            "meaning_e": "a period of 10 years",
+            "sentence": "My family has lived here for two _______.\n나의 가족은 20년 동안 이곳에서 살았다."
+        }
+    },
+    {
+        "word": "carbon",
+        "descriptions": {
+            "meaning_k": "탄소",
+            "meaning_e": "an element found in coal, diamond, etc.",
+            "sentence": "Trees absorb ______ dioxide and produce oxygen.\n나무는 이산화탄소를 흡수하고 산소를 배출한다."
+        }
+    },
+    {
+        "word": "pillar",
+        "descriptions": {
+            "meaning_k": "기둥",
+            "meaning_e": "a long pole that supports the roof of a building",
+            "sentence": "There is a crack in the ______ from the earthquake.\n지진으로 인해 기둥에 금이 생겼다."
+        }
+    },
+    {
+        "word": "pleasure",
+        "descriptions": {
+            "meaning_k": "기쁨, 즐거움",
+            "meaning_e": "a feeling of happiness or joy",
+            "sentence": "Nothing gives me more ________ than my garden.\n내 정원보다 나에게 더 많은 기쁨을 주는 것은 없다."
+        }
+    },
+    {
+        "word": "scout",
+        "descriptions": {
+            "meaning_k": "스카우트(발굴)하다",
+            "meaning_e": "to look for someone or something in various places",
+            "sentence": "The coach is ________ for talented players.\n코치는 재능있는 선수들을 발굴하고 있다."
+        }
+    },
+    {
+        "word": "reject",
+        "descriptions": {
+            "meaning_k": "거절하다",
+            "meaning_e": "to refuse",
+            "sentence": "I ________ her request to borrow some money.\n나는 돈을 좀 빌려 달라는 그녀의 요청을 거절했다."
+        }
+    },
+    {
+        "word": "fluffy",
+        "descriptions": {
+            "meaning_k": "솜털 같은, 폭신폭신한",
+            "meaning_e": "being covered with soft material",
+            "sentence": "She petted her cat's soft and ______ fur.\n그녀는 그녀의 고양이의 부드럽고 폭신폭신한 털을 쓰다듬었다."
+        }
+    },
+    {
+        "word": "sniff",
+        "descriptions": {
+            "meaning_k": "코를 훌쩍이다",
+            "meaning_e": "to make noise when breathing in through one's nose",
+            "sentence": "Alice _______ as she watched a sad movie.\n앨리스는 슬픈 영화를 보면서 코를 훌쩍거렸다."
+        }
+    },
+    {
+        "word": "sniff",
+        "descriptions": {
+            "meaning_k": "(코를 킁킁거리며) 냄새를 맡다",
+            "meaning_e": "to smell in short breaths",
+            "sentence": "My dog likes to _____ and smell everything.\n나의 개는 모든 것을 킁킁거리며 냄새 맡기를 좋아한다."
+        }
+    }
+]

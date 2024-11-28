@@ -1,9 +1,11 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lime_slp_buddy/main.dart';
 import 'package:lime_slp_buddy/view/controller/home_screen_controller.dart';
 import 'package:lime_slp_buddy/view/controller/quiz_screen_controller.dart';
 import 'package:lime_slp_buddy/view/quiz_screen.dart';
+import 'package:responsive_framework/responsive_framework.dart';
 import "package:universal_html/html.dart" as html;
 
 class HomeScreen extends StatelessWidget {
@@ -13,6 +15,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final HomeScreenController homeScreenController = Get.put(HomeScreenController());
     final QuizScreenController quizScreenController = Get.put(QuizScreenController());
+
     return Obx(
       () => Scaffold(
         backgroundColor: Colors.transparent,
@@ -33,15 +36,24 @@ class HomeScreen extends StatelessWidget {
                           children: [
                             IconButton(
                               onPressed: () async {
-                                bool isOk = html.window.confirm('처음 화면으로 되돌아갈까요?');
-                                if (isOk) {
+                                if (kIsWeb) {
+                                  bool isOk = html.window.confirm('처음 화면으로 되돌아갈까요?');
+                                  if (isOk) {
+                                    homeScreenController.quizStarted = false;
+                                    homeScreenController.selectedDoumiIndex = 0;
+                                    homeScreenController.selectedQuizFile = QuizFileList.values.first;
+                                    quizScreenController.currentQuestionIndex = 0;
+                                    quizScreenController.doumiState = DoumiState.normal;
+                                  }
+                                } else {
                                   homeScreenController.quizStarted = false;
                                   homeScreenController.selectedDoumiIndex = 0;
+                                  homeScreenController.selectedQuizFile = QuizFileList.values.first;
                                   quizScreenController.currentQuestionIndex = 0;
                                   quizScreenController.doumiState = DoumiState.normal;
                                 }
                               },
-                              iconSize: 58.0,
+                              iconSize: (ResponsiveBreakpoints.of(context).isMobile || ResponsiveBreakpoints.of(context).isPhone) ? 32.0 : 58.0,
                               color: Colors.pink,
                               icon: const Icon(
                                 Icons.home,
@@ -49,8 +61,8 @@ class HomeScreen extends StatelessWidget {
                             ),
                             Container(
                               alignment: Alignment.center,
-                              height: 50,
-                              width: 300,
+                              height: (ResponsiveBreakpoints.of(context).isMobile || ResponsiveBreakpoints.of(context).isPhone) ? 30 : 50,
+                              width: (ResponsiveBreakpoints.of(context).isMobile || ResponsiveBreakpoints.of(context).isPhone) ? 200 : 300,
                               decoration: const BoxDecoration(
                                 image: DecorationImage(
                                   alignment: Alignment.center,
@@ -65,9 +77,9 @@ class HomeScreen extends StatelessWidget {
                                   : quizScreenController.currentQuestionIndex == quizScreenController.randomizedQuestions.length
                                       ? ''
                                       : '${quizScreenController.currentQuestionIndex + 1} / ${quizScreenController.randomizedQuestions.length}',
-                              style: const TextStyle(
+                              style: TextStyle(
                                 color: Colors.pink,
-                                fontSize: 48.0,
+                                fontSize: (ResponsiveBreakpoints.of(context).isMobile || ResponsiveBreakpoints.of(context).isPhone) ? 24.0 : 48.0,
                                 fontWeight: FontWeight.bold,
                               ),
                             ),
@@ -151,6 +163,40 @@ class HomeScreen extends StatelessWidget {
                                   ),
                                 ],
                               ),
+                              Padding(
+                                padding: const EdgeInsets.all(5.0),
+                                child: SizedBox(
+                                  width: (ResponsiveBreakpoints.of(context).isMobile || ResponsiveBreakpoints.of(context).isPhone) ? 250 : 350,
+                                  height: 50,
+                                  child: DropdownButtonFormField<String>(
+                                    decoration: const InputDecoration(
+                                      labelText: '퀴즈 선택',
+                                      floatingLabelStyle: TextStyle(
+                                        fontWeight: FontWeight.bold,
+                                      ),
+                                      filled: true,
+                                      border: OutlineInputBorder(
+                                        borderSide: BorderSide(),
+                                      ),
+                                      focusedBorder: OutlineInputBorder(
+                                        borderSide: BorderSide(
+                                          width: 1.5,
+                                        ),
+                                      ),
+                                    ),
+                                    value: homeScreenController.selectedQuizFile.label,
+                                    items: QuizFileList.values.map((QuizFileList file) {
+                                      return DropdownMenuItem<String>(
+                                        value: file.label,
+                                        child: Text(file.label),
+                                      );
+                                    }).toList(),
+                                    onChanged: (newValue) {
+                                      homeScreenController.findQuiz(newValue!);
+                                    },
+                                  ),
+                                ),
+                              ),
                               ElevatedButton(
                                 onPressed: () {
                                   homeScreenController.quizStarted = true;
@@ -160,14 +206,19 @@ class HomeScreen extends StatelessWidget {
                                   shape: WidgetStatePropertyAll(RoundedRectangleBorder(
                                     borderRadius: BorderRadius.circular(40.0),
                                   )),
-                                  fixedSize: const WidgetStatePropertyAll(Size(360.0, 120.0)),
+                                  fixedSize: WidgetStatePropertyAll(
+                                    Size(
+                                      (ResponsiveBreakpoints.of(context).isMobile || ResponsiveBreakpoints.of(context).isPhone) ? 300 : 360.0,
+                                      (ResponsiveBreakpoints.of(context).isMobile || ResponsiveBreakpoints.of(context).isPhone) ? 100 : 120.0,
+                                    ),
+                                  ),
                                 ),
-                                child: const Text(
+                                child: Text(
                                   '퀴즈 시작 !!',
                                   style: TextStyle(
                                     color: Colors.white,
                                     fontWeight: FontWeight.bold,
-                                    fontSize: 36.0,
+                                    fontSize: (ResponsiveBreakpoints.of(context).isMobile || ResponsiveBreakpoints.of(context).isPhone) ? 28.0 : 36.0,
                                   ),
                                 ),
                               ),

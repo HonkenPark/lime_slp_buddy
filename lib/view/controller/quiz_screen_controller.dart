@@ -26,8 +26,12 @@ class QuizScreenController extends GetxController {
   DoumiState get doumiState => _doumiState.value;
   set doumiState(DoumiState value) => _doumiState.value = value;
 
-  Future<void> loadQuizData() async {
-    final String jsonString = await rootBundle.loadString('assets/json/page_11.json');
+  final RxBool _toggleKoreanMeaning = false.obs;
+  bool get toggleKoreanMeaning => _toggleKoreanMeaning.value;
+  set toggleKoreanMeaning(bool value) => _toggleKoreanMeaning.value = value;
+
+  Future<void> loadQuizData(String filePath) async {
+    final String jsonString = await rootBundle.loadString(filePath);
     final List<dynamic> jsonData = json.decode(jsonString);
 
     quizData = jsonData.map((e) => e as Map<String, dynamic>).toList();
@@ -44,16 +48,16 @@ class QuizScreenController extends GetxController {
     }
   }
 
-  Future<void> checkAnswer(String userAnswer) async {
+  void checkAnswer(String userAnswer) {
     String correctAnswer = randomizedQuestions[currentQuestionIndex]['word'].toLowerCase();
 
     if (userAnswer == correctAnswer) {
+      player.play(AssetSource('audio/pass.mp3'));
       doumiState = DoumiState.correctanswer;
-      await player.play(AssetSource('audio/pass.mp3'));
       currentQuestionIndex += 1;
     } else {
+      player.play(AssetSource('audio/fail.mp3'));
       doumiState = DoumiState.wronganswer;
-      await player.play(AssetSource('audio/fail.mp3'));
     }
   }
 
@@ -92,6 +96,66 @@ class QuizScreenController extends GetxController {
       } else {
         path = 'assets/image/normal_mamekichi.png';
       }
+    }
+    return path;
+  }
+
+  String getNormalImagePath(int doumiIndex) {
+    String path = '';
+    if (doumiIndex == 1) {
+      // Sizue
+      path = 'assets/image/normal_sizue.png';
+    } else if (doumiIndex == 2) {
+      // June
+      path = 'assets/image/normal_june.png';
+    } else {
+      // Mamekichi
+      path = 'assets/image/normal_mamekichi.png';
+    }
+    return path;
+  }
+
+  String getWrongInputImagePath(int doumiIndex) {
+    String path = '';
+    if (doumiIndex == 1) {
+      // Sizue
+      path = 'assets/image/wroipt_sizue.png';
+    } else if (doumiIndex == 2) {
+      // June
+      path = 'assets/image/wroipt_june.png';
+    } else {
+      // Mamekichi
+      path = 'assets/image/wroipt_mamekichi.png';
+    }
+    return path;
+  }
+
+  String getWrongAnswerImagePath(int doumiIndex) {
+    String path = '';
+    if (doumiIndex == 1) {
+      // Sizue
+      path = 'assets/image/wroans_sizue.png';
+    } else if (doumiIndex == 2) {
+      // June
+      path = 'assets/image/wroans_june.png';
+    } else {
+      // Mamekichi
+      path = 'assets/image/wroans_mamekichi.png';
+    }
+    return path;
+  }
+
+  String getCorrectAnswerImagePath(int doumiIndex) {
+    String path = '';
+    if (doumiIndex == 1) {
+      // Sizue
+      path = 'assets/image/correct_sizue.png';
+    } else if (doumiIndex == 2) {
+      // June
+      path = 'assets/image/correct_june.png';
+    } else {
+      // Mamekichi
+      path = 'assets/image/correct_mamekichi.png';
     }
     return path;
   }

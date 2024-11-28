@@ -1,0 +1,90 @@
+[
+    {
+        "word": "fatal",
+        "descriptions": {
+            "meaning_k": "치명적인",
+            "meaning_e": "having a very bad effect",
+            "sentence": "Sam made a _____ mistake and lost the match.\n샘은 치명적인 실수를 해서 시합에서 졌다."
+        }
+    },
+    {
+        "word": "kneel",
+        "descriptions": {
+            "meaning_k": "무릎을 꿇다",
+            "meaning_e": "to put one's knee(s) on the ground",
+            "sentence": "Barbara _____ down to pick up the wallet that somebody had dropped.\n바바라는 누군가가 떨어뜨린 지갑을 주우려고 무릎을 꿇었다."
+        }
+    },
+    {
+        "word": "option",
+        "descriptions": {
+            "meaning_k": "선택, 선택권",
+            "meaning_e": "an act of choosing; the right to choose",
+            "sentence": "In this pizza shop, we have few _______.\n이 피자 가게에는 선택사항이 별로 없다."
+        }
+    },
+    {
+        "word": "ancient",
+        "descriptions": {
+            "meaning_k": "고대의",
+            "meaning_e": "from a long time ago",
+            "sentence": "The British explorer tried to find an _______ city.\n그 영국 탐험가는 고대 도시를 발굴하려고 노력했다."
+        }
+    },
+    {
+        "word": "counter",
+        "descriptions": {
+            "meaning_k": "계산대, 카운터",
+            "meaning_e": "the place where people pay or are served in a shop",
+            "sentence": "She placed the money on the _______ and left.\n그녀는 돈을 계산대 위에 놓고 떠났다."
+        }
+    },
+    {
+        "word": "opportunity",
+        "descriptions": {
+            "meaning_k": "기회",
+            "meaning_e": "a situation that makes it possible to do something",
+            "sentence": "Summer camps offer students the ___________ to experience various activities.\n여름 캠프는 학생들에게 다양한 활동을 경험할 수 있는 기회를 제공한다."
+        }
+    },
+    {
+        "word": "sculpture",
+        "descriptions": {
+            "meaning_k": "조각, 조각품",
+            "meaning_e": "a work of art made out of stone, wood, clay, etc.",
+            "sentence": "The fish _________ is made out of oak.\n그 물고기 조각은 참나무로 만들어졌다."
+        }
+    },
+    {
+        "word": "demand",
+        "descriptions": {
+            "meaning_k": "요구, 수요",
+            "meaning_e": "the need that people have for something",
+            "sentence": "We always try to meet customers' _______.\n우리는 항상 고객의 요구를 충족시키려고 노력한다."
+        }
+    },
+    {
+        "word": "miserable",
+        "descriptions": {
+            "meaning_k": "비참한",
+            "meaning_e": "being very unhappy",
+            "sentence": "The villagers were _________ from hunger.\n마을 사람들은 배고픔으로 비참했다."
+        }
+    },
+    {
+        "word": "admire",
+        "descriptions": {
+            "meaning_k": "존경하다",
+            "meaning_e": "to like and respect someone",
+            "sentence": "Everyone _______ Peter for his passion.\n모든 사람들은 피터의 열정을 존경한다."
+        }
+    },
+    {
+        "word": "admire",
+        "descriptions": {
+            "meaning_k": "감탄하다",
+            "meaning_e": "to think something beautiful or impressive",
+            "sentence": "We walked along the top of the hill and _______ the great view.\n우리는 언덕 꼭대기에 올라 멋진 풍경에 감탄했다."
+        }
+    }
+]
