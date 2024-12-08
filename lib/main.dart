@@ -20,7 +20,8 @@ enum QuizFileList {
   unit04_2130('유닛4 21번-30번', 'assets/json/Unit04_21_30.json'),
   unit05_0110('유닛5 1번-10번', 'assets/json/Unit05_01_10.json'),
   unit05_1120('유닛5 11번-20번', 'assets/json/Unit05_11_20.json'),
-  unit05_2130('유닛5 21번-30번', 'assets/json/Unit05_21_30.json');
+  unit05_2130('유닛5 21번-30번', 'assets/json/Unit05_21_30.json'),
+  unit06_0110('유닛6 1번-10번', 'assets/json/Unit06_01_10.json');
 
   const QuizFileList(
     this.label,

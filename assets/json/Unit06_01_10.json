@@ -1,0 +1,90 @@
+[
+    {
+        "word": "prey",
+        "descriptions": {
+            "meaning_k": "먹이, 사냥감",
+            "meaning_e": "an animal killed for food",
+            "sentence": "The hyenas hid in the grass before attacking their ____.\n하이에나들은 먹이를 공격하기 전에 풀밭에 숨었다."
+        }
+    },
+    {
+        "word": "ideal",
+        "descriptions": {
+            "meaning_k": "이상적인, 가장 알맞은",
+            "meaning_e": "of the best type",
+            "sentence": "Central Park is an _____ place to take a walk.\n센트럴 파크는 산책하기에 가장 알맞은 장소다."
+        }
+    },
+    {
+        "word": "process",
+        "descriptions": {
+            "meaning_k": "과정, 절차",
+            "meaning_e": "a series of actions that produce something",
+            "sentence": "The _______ of making cheese takes many hours.\n치즈를 만드는 과정은 몇 시간이 걸린다."
+        }
+    },
+    {
+        "word": "robe",
+        "descriptions": {
+            "meaning_k": "(길고 헐거운) 가운, 예복",
+            "meaning_e": "a long, loose gown",
+            "sentence": "We wore black _____ at our graduation ceremony.\n우리는 졸업식 때 검은 가운을 입었다."
+        }
+    },
+    {
+        "word": "drug",
+        "descriptions": {
+            "meaning_k": "약, 약품",
+            "meaning_e": "a medicine",
+            "sentence": "The patients should get advice from experts before taking _____.\n환자들은 약을 복용하기 전에 전문가로부터 조언을 받아야 한다."
+        }
+    },
+    {
+        "word": "request",
+        "descriptions": {
+            "meaning_k": "요청",
+            "meaning_e": "an act of asking for something in a polite way",
+            "sentence": "He made a _______ for a cup of coffee.\n그는 커피 한 잔을 요청했다."
+        }
+    },
+    {
+        "word": "whether",
+        "descriptions": {
+            "meaning_k": "~ 인지 아닌지",
+            "meaning_e": "if or not",
+            "sentence": "I wasn't sure _______ she was lying or not.\n나는 그녀가 거짓말을 하고 있는지 아닌지 확신할 수 없었다."
+        }
+    },
+    {
+        "word": "prayer",
+        "descriptions": {
+            "meaning_k": "기도, 기도문",
+            "meaning_e": "words that one says to god",
+            "sentence": "The kids said their _______ before going to bed.\n그 아이들은 자기 전에 기도를 했다."
+        }
+    },
+    {
+        "word": "bond",
+        "descriptions": {
+            "meaning_k": "유대, 결속",
+            "meaning_e": "something that unites two people",
+            "sentence": "The ____ between Brian and me is very special.\n브라이언과 나 사이의 유대는 매우 특별하다."
+        }
+    },
+    {
+        "word": "lean",
+        "descriptions": {
+            "meaning_k": "기울이다, 몸을 숙이다",
+            "meaning_e": "to bend from a straight position",
+            "sentence": "I ______ forward to see the kittens closer.\n나는 새끼 고양이들을 더 가까이 보기 위해 몸을 앞으로 숙였다."
+        }
+    },
+    {
+        "word": "lean",
+        "descriptions": {
+            "meaning_k": "(몸을) 기대다",
+            "meaning_e": "to rest one's body against something",
+            "sentence": "Don't ____ on the window because it might break.\n창문이 깨질지도 모르니 기대지 마라."
+        }
+    }
+]

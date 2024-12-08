@@ -51,7 +51,7 @@ class QuizScreenController extends GetxController {
   void checkAnswer(String userAnswer) {
     String correctAnswer = randomizedQuestions[currentQuestionIndex]['word'].toLowerCase();
 
-    if (userAnswer == correctAnswer) {
+    if (userAnswer == correctAnswer || userAnswer == 'skip') {
       player.play(AssetSource('audio/pass.mp3'));
       doumiState = DoumiState.correctanswer;
       currentQuestionIndex += 1;
