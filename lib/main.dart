@@ -21,7 +21,18 @@ enum QuizFileList {
   unit05_0110('유닛5 1번-10번', 'assets/json/Unit05_01_10.json'),
   unit05_1120('유닛5 11번-20번', 'assets/json/Unit05_11_20.json'),
   unit05_2130('유닛5 21번-30번', 'assets/json/Unit05_21_30.json'),
-  unit06_0110('유닛6 1번-10번', 'assets/json/Unit06_01_10.json');
+  unit06_0110('유닛6 1번-10번', 'assets/json/Unit06_01_10.json'),
+  unit06_1120('유닛6 11번-20번', 'assets/json/Unit06_11_20.json'),
+  unit06_2130('유닛6 21번-30번', 'assets/json/Unit06_21_30.json'),
+  unit07_0110('유닛7 1번-10번', 'assets/json/Unit07_01_10.json'),
+  unit07_1120('유닛7 11번-20번', 'assets/json/Unit07_11_20.json'),
+  unit07_2130('유닛7 21번-30번', 'assets/json/Unit07_21_30.json'),
+  unit08_0110('유닛8 1번-10번', 'assets/json/Unit08_01_10.json'),
+  unit08_1120('유닛8 11번-20번', 'assets/json/Unit08_11_20.json'),
+  unit08_2130('유닛8 21번-30번', 'assets/json/Unit08_21_30.json'),
+  unit09_0110('유닛9 1번-10번', 'assets/json/Unit09_01_10.json'),
+  unit09_1120('유닛9 11번-20번', 'assets/json/Unit09_11_20.json'),
+  unit09_2130('유닛9 21번-30번', 'assets/json/Unit09_21_30.json');
 
   const QuizFileList(
     this.label,

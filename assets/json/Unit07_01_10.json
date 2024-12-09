@@ -1,0 +1,90 @@
+[
+    {
+        "word": "link",
+        "descriptions": {
+            "meaning_k": "연결하다",
+            "meaning_e": "to connect",
+            "sentence": "The bridge will ____ the two parts of the city.\n그 다리는 그 도시의 두 구역을 연결할 것이다."
+        }
+    },
+    {
+        "word": "pace",
+        "descriptions": {
+            "meaning_k": "속도",
+            "meaning_e": "the speed at which something happens",
+            "sentence": "He slowed his ____ when he saw a car coming.\n그는 차가 오는 것을 보고 속도를 늦추었다."
+        }
+    },
+    {
+        "word": "index",
+        "descriptions": {
+            "meaning_k": "색인, 목록",
+            "meaning_e": "an alphabetical list of names, subjects, etc. at the back of a book",
+            "sentence": "Look up Abraham Lincoln in the _____.\n색인에서 에이브러햄 링컨을 찾아보아라."
+        }
+    },
+    {
+        "word": "shore",
+        "descriptions": {
+            "meaning_k": "해안, 해변",
+            "meaning_e": "the land along the edge of a sea, lake, or river",
+            "sentence": "The old man watched the waves from the _____.\n그 노인은 해변에서 파도를 바라보았다."
+        }
+    },
+    {
+        "word": "borrow",
+        "descriptions": {
+            "meaning_k": "빌리다",
+            "meaning_e": "to take something with the promise of returning it",
+            "sentence": "I _______ a baking pan from my neighbor.\n나는 이웃에게서 빵 굽는 팬을 빌렸다."
+        }
+    },
+    {
+        "word": "afraid",
+        "descriptions": {
+            "meaning_k": "두려워하는, 겁내는",
+            "meaning_e": "feeling fear",
+            "sentence": "Zoey was ______ of being bullied by her friends.\n조이는 친구들에게 괴롭힘을 당하는 것이 두려웠다."
+        }
+    },
+    {
+        "word": "resort",
+        "descriptions": {
+            "meaning_k": "휴양지, 리조트",
+            "meaning_e": "a place people go for rest or play",
+            "sentence": "Write a description of your favorite seaside ______.\n네가 가장 좋아하는 바닷가 휴양지에 대한 묘사를 써라."
+        }
+    },
+    {
+        "word": "publish",
+        "descriptions": {
+            "meaning_k": "출판하다, 발행하다",
+            "meaning_e": "to produce a book or magazine",
+            "sentence": "The furniture webzine is _________ every week.\n그 가구 웹진(인터넷 잡지)은 매주 발행된다."
+        }
+    },
+    {
+        "word": "poetry",
+        "descriptions": {
+            "meaning_k": "(집합적) 시, 운문",
+            "meaning_e": "the writings of a poet",
+            "sentence": "She writes ______ in order to express herself.\n그녀는 자신을 표현하기 위해 시를 쓴다."
+        }
+    },
+    {
+        "word": "chief",
+        "descriptions": {
+            "meaning_k": "최고위자",
+            "meaning_e": "the leader of a group",
+            "sentence": "The _____ of police told the reporters what the suspect looks like.\n경찰국장은 기자들에게 용의자가 어떻게 생겼는지 말했다."
+        }
+    },
+    {
+        "word": "chief",
+        "descriptions": {
+            "meaning_k": "주된, 최고의",
+            "meaning_e": "most important",
+            "sentence": "Bikes are the city's _____ means of transportation.\n자전거는 그 도시의 주된 교통수단이다."
+        }
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "word": "leap",
+        "descriptions": {
+            "meaning_k": "뛰다, 도약하다",
+            "meaning_e": "to make a large jump",
+            "sentence": "A huge humpback whale ______ out of the water.\n거대한 혹등고래 한 마리가 물 밖으로 뛰어올랐다."
+        }
+    },
+    {
+        "word": "defeat",
+        "descriptions": {
+            "meaning_k": "패배시키다",
+            "meaning_e": "to win a victory over",
+            "sentence": "We lost last year, but we're going to ______ them this year.\n우리는 작년에 졌지만, 올해에는 그들을 이길 것이다."
+        }
+    },
+    {
+        "word": "maintain",
+        "descriptions": {
+            "meaning_k": "유지하다, 보존하다",
+            "meaning_e": "to make something stay the same",
+            "sentence": "To ________ glowing skin, use sunscreen daily.\n빛나는 피부를 유지하기 위해서는 매일 선크림을 발라라."
+        }
+    },
+    {
+        "word": "complex",
+        "descriptions": {
+            "meaning_k": "복잡한, 복합의",
+            "meaning_e": "having many different parts",
+            "sentence": "A computer is certainly a _______ machine.\n컴퓨터는 확실히 복잡한 기계다."
+        }
+    },
+    {
+        "word": "discussion",
+        "descriptions": {
+            "meaning_k": "토론, 논의",
+            "meaning_e": "a talk about something to reach a decision",
+            "sentence": "You can get a broader view through __________.\n너는 토론을 통해 더 넓은 견해를 가질 수 있다."
+        }
+    },
+    {
+        "word": "effect",
+        "descriptions": {
+            "meaning_k": "영향, 효과",
+            "meaning_e": "the result of an action",
+            "sentence": "Classical music has a calming ______ on the mind.\n클래식 음악은 마음을 진정시키는 효과가 있다."
+        }
+    },
+    {
+        "word": "regular",
+        "descriptions": {
+            "meaning_k": "규칙적인, 정기적인",
+            "meaning_e": "happening over and over again at the same time",
+            "sentence": "get a _______ haircut once a month.\n나는 한 달에 한 번 규칙적으로 머리를 자른다."
+        }
+    },
+    {
+        "word": "devil",
+        "descriptions": {
+            "meaning_k": "악마",
+            "meaning_e": "an evil demon or spirit",
+            "sentence": "She published a novel about angels and ______.\n그녀는 천사와 악마에 대한 소설을 출판했다."
+        }
+    },
+    {
+        "word": "manage",
+        "descriptions": {
+            "meaning_k": "관리하다, 운영하다",
+            "meaning_e": "to control something",
+            "sentence": "She learned how to ______ the online shop.\n그녀는 온라인 상점을 운영하는 법을 배웠다."
+        }
+    },
+    {
+        "word": "manage",
+        "descriptions": {
+            "meaning_k": "간신히 ~하다",
+            "meaning_e": "to succeed in doing something difficult",
+            "sentence": "He _______ to survive for four days without drinking water.\n그는 물을 마시지 않고 나흘 동안 간신히 살아남았다."
+        }
+    },
+    {
+        "word": "flush",
+        "descriptions": {
+            "meaning_k": "(얼굴이) 붉어지다",
+            "meaning_e": "to become red in the face",
+            "sentence": "Sarah _______ with anger because of his lie.\n사라는 그의 거짓말 때문에 화가 나서 얼굴이 빨개졌다."
+        }
+    },
+    {
+        "word": "flush",
+        "descriptions": {
+            "meaning_k": "(변기의) 물을 내리다",
+            "meaning_e": "to cause water to flow down the toilet",
+            "sentence": "You should always _____ after using the toilet.\n변기를 사용한 후에는 항상 물을 내려야 한다."
+        }
+    }
+]

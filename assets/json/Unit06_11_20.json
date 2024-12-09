@@ -1,0 +1,90 @@
+[
+    {
+        "word": "spear",
+        "descriptions": {
+            "meaning_k": "창, 작살",
+            "meaning_e": "a long weapon with a sharp end",
+            "sentence": "It is hard for me to catch fish with ______.\n작살로 물고기를 잡는 것은 나에게 어렵다."
+        }
+    },
+    {
+        "word": "rough",
+        "descriptions": {
+            "meaning_k": "거친, 고르지 않은",
+            "meaning_e": "having an uneven surface",
+            "sentence": "The surface of the road is _____ and bumpy.\n그 길의 표면은 거칠고 울퉁불퉁하다."
+        }
+    },
+    {
+        "word": "reality",
+        "descriptions": {
+            "meaning_k": "현실, 실제",
+            "meaning_e": "what actually happens or is true",
+            "sentence": "His dream to be a designer became a _______.\n디자이너가 되고 싶었던 그의 꿈은 현실이 되었다."
+        }
+    },
+    {
+        "word": "charm",
+        "descriptions": {
+            "meaning_k": "매력",
+            "meaning_e": "the ability to attract and please others",
+            "sentence": "Paris is a city full of _____ and character.\n파리는 매력과 개성이 넘치는 도시이다."
+        }
+    },
+    {
+        "word": "progress",
+        "descriptions": {
+            "meaning_k": "진전, 발전",
+            "meaning_e": "movement towards a goal",
+            "sentence": "Wendy has made a lot of ________ in math.\n웬디는 수학에서 실력이 크게 향상되었다."
+        }
+    },
+    {
+        "word": "attend",
+        "descriptions": {
+            "meaning_k": "참석하다, 출석하다",
+            "meaning_e": "to go to an event, place, etc.",
+            "sentence": "She ________ the school concert to watch her daughter perform.\n그녀는 딸이 공연하는 것을 보기 위해 교내 콘서트에 참석했다."
+        }
+    },
+    {
+        "word": "fragile",
+        "descriptions": {
+            "meaning_k": "취약한, 부서지기 쉬운",
+            "meaning_e": "easily broken",
+            "sentence": "The staff handled the _______ glass carefully.\n그 직원들은 깨지기 쉬운 유리를 조심스럽게 다루었다."
+        }
+    },
+    {
+        "word": "private",
+        "descriptions": {
+            "meaning_k": "개인적인, 사적인",
+            "meaning_e": "not shared with others",
+            "sentence": "It was a _______ conversation just between him and his friends.\n그것은 그와 그의 친구들만의 사적인 대화였다."
+        }
+    },
+    {
+        "word": "purpose",
+        "descriptions": {
+            "meaning_k": "목적",
+            "meaning_e": "the goal of an action",
+            "sentence": "The _______ of studying history is to understand our past and present.\n역사를 공부하는 목적은 우리의 과거와 현재를 이해하기 위함이다."
+        }
+    },
+    {
+        "word": "appeal",
+        "descriptions": {
+            "meaning_k": "호소, 간청",
+            "meaning_e": "a serious request for something",
+            "sentence": "Our ______ worked, and we were able to raise funds for the charity.\n우리의 호소는 효과가 있었고, 자선 활동을 위한 기금을 모을 수 있었다."
+        }
+    },
+    {
+        "word": "appeal",
+        "descriptions": {
+            "meaning_k": "흥미를 일으키다",
+            "meaning_e": "to seem attractive",
+            "sentence": "The innovative design ________ to young people.\n그 혁신적인 디자인은 젊은 사람들의 흥미를 일으켰다."
+        }
+    }
+]
