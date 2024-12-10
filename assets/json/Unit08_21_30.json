@@ -1,0 +1,98 @@
+    [
+        {
+            "word": "playwright",
+            "descriptions": {
+                "meaning_k": "극작가, 희곡 작가",
+                "meaning_e": "a person who writes plays",
+                "sentence": "As a __________, he wrote some comic plays.\n그는 극작가로서 희극을 몇 편 썼다."
+            }
+        },
+        {
+            "word": "therefore",
+            "descriptions": {
+                "meaning_k": "그러므로, 따라서",
+                "meaning_e": "for that reason",
+                "sentence": "He is only 15, and _________ he can't drive.\n그는 겨우 15살이고 따라서 운전을 할 수 없다."
+            }
+        },
+        {
+            "word": "aspect",
+            "descriptions": {
+                "meaning_k": "측면, 양상",
+                "meaning_e": "a part of something",
+                "sentence": "Their service was excellent in every ______.\n그들의 서비스는 모든 면에서 훌륭했다."
+            }
+        },
+        {
+            "word": "function",
+            "descriptions": {
+                "meaning_k": "기능",
+                "meaning_e": "the purpose of an object",
+                "sentence": "I don't use all the ________ of this smartphone.\n나는 이 스마트폰의 모든 기능을 사용하진 않는다."
+            }
+        },
+        {
+            "word": "mention",
+            "descriptions": {
+                "meaning_k": "언급하다, 말하다",
+                "meaning_e": "to speak about something once or twice",
+                "sentence": "Science fiction stories often _______ robots that can talk.\n공상 과학 소설은 말하는 로봇에 대해 종종 언급한다."
+            }
+        },
+        {
+            "word": "pregnant",
+            "descriptions": {
+                "meaning_k": "임신한",
+                "meaning_e": "having a baby growing inside the body",
+                "sentence": "I gave my seat to a _______ woman on the bus.\n나는 버스에서 임산부에게 자리를 양보했다."
+            }
+        },
+        {
+            "word": "hardship",
+            "descriptions": {
+                "meaning_k": "(돈.식품 부족으로 인한) 어려움, 곤란",
+                "meaning_e": "a condition of great difficulty or suffering",
+                "sentence": "She has suffered from financial ________ recently.\n그녀는 최근에 재정적인 어려움을 겪고 있다."
+            }
+        },
+        {
+            "word": "legend",
+            "descriptions": {
+                "meaning_k": "전설, 전설적 인물",
+                "meaning_e": "an old well-known story or person",
+                "sentence": "Only a few people know the ______ about the hidden treasures.\n오직 소수의 사람만이 숨겨진 보물에 대한 전설을 알고 있다."
+            }
+        },
+        {
+            "word": "mechanic",
+            "descriptions": {
+                "meaning_k": "정비공",
+                "meaning_e": "someone who is skilled at repairing machines",
+                "sentence": "The ________ changed the tires of my car.\n정비공이 내 차의 타이어를 교체했다."
+            }
+        },
+        {
+            "word": "right",
+            "descriptions": {
+                "meaning_k": "권리, 권한",
+                "meaning_e": "something legally given to allow someone to do something",
+                "sentence": "Every person has a _____ to pursue happiness.\n모든 사람은 행복을 추구할 권리가 있다."
+            }
+        },
+        {
+            "word": "right",
+            "descriptions": {
+                "meaning_k": "옳은",
+                "meaning_e": "correct or accurate",
+                "sentence": "All your answers to the questions are _____.\n질문에 대한 너의 대답은 모두 옳다."
+            }
+        },
+        {
+            "word": "right",
+            "descriptions": {
+                "meaning_k": "바로",
+                "meaning_e": "exactly in a particular position or place",
+                "sentence": "Amy kept herself warm by sitting _____ next to the fire.\n에이미는 불 바로 옆에 앉아 몸을 녹였다."
+            }
+        }
+    ]

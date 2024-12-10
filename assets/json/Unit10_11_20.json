@@ -1,0 +1,90 @@
+[
+    {
+        "word": "invest",
+        "descriptions": {
+            "meaning_k": "투자하다",
+            "meaning_e": "to use something to make money or achieve a result",
+            "sentence": "All her savings were ________ in the business.\n그녀가 저축한 돈은 모두 그 사업에 투자되었다."
+        }
+    },
+    {
+        "word": "professor",
+        "descriptions": {
+            "meaning_k": "교수",
+            "meaning_e": "a teacher at college",
+            "sentence": "The _________ gave a lecture on ancient art.\n그 교수는 고대 미술에 대한 강의를 했다."
+        }
+    },
+    {
+        "word": "justice",
+        "descriptions": {
+            "meaning_k": "정의, 공정",
+            "meaning_e": "the upholding of what is fair and right",
+            "sentence": "The crowd is demanding _______ for all.\n군중들은 모두를 위한 정의를 요구하고 있다."
+        }
+    },
+    {
+        "word": "possess",
+        "descriptions": {
+            "meaning_k": "소유하다, 지니다",
+            "meaning_e": "to have something",
+            "sentence": "Some animals ______ the ability to detect earthquakes.\n어떤 동물은 지진을 감지하는 능력을 지니고 있다."
+        }
+    },
+    {
+        "word": "sparkling",
+        "descriptions": {
+            "meaning_k": "반짝거리는",
+            "meaning_e": "shining or flashing with light",
+            "sentence": "Dan loved watching the _________ blue ocean.\n댄은 반짝이는 푸른 바다를 보는 것을 좋아했다."
+        }
+    },
+    {
+        "word": "fearless",
+        "descriptions": {
+            "meaning_k": "겁 없는, 용감한",
+            "meaning_e": "brave",
+            "sentence": "He is a ________ explorer visiting dangerous places.\n그는 위험한 곳들을 찾아가는 용감한 탐험가다."
+        }
+    },
+    {
+        "word": "prevent",
+        "descriptions": {
+            "meaning_k": "막다, 예방하다",
+            "meaning_e": "to stop from happening",
+            "sentence": "Washing your hands can _______ many diseases.\n손 씻기는 많은 질병을 예방할 수 있다."
+        }
+    },
+    {
+        "word": "tendency",
+        "descriptions": {
+            "meaning_k": "경향, 성향",
+            "meaning_e": "the fact of being likely to act in a certain way",
+            "sentence": "John has a ________ to lie whenever he's late.\n존은 늦을 때마다 거짓말을 하는 경향이 있다."
+        }
+    },
+    {
+        "word": "threat",
+        "descriptions": {
+            "meaning_k": "협박, 위협",
+            "meaning_e": "something that could cause harm or trouble",
+            "sentence": "Is Artificial Intelligence a ______ to mankind?\n인공지능은 인류에게 위협일까?"
+        }
+    },
+    {
+        "word": "concern",
+        "descriptions": {
+            "meaning_k": "관심사",
+            "meaning_e": "a matter that is important to someone",
+            "sentence": "My _______ are mainly about my grades.\n내 관심사는 주로 성적에 관한 것이다."
+        }
+    },
+    {
+        "word": "concern",
+        "descriptions": {
+            "meaning_k": "걱정하다",
+            "meaning_e": "to worry someone",
+            "sentence": "Don't _______ yourself too much with weight.\n몸무게에 대해 너무 걱정하지 마라."
+        }
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "word": "crowded",
+        "descriptions": {
+            "meaning_k": "붐비는",
+            "meaning_e": "having too many people",
+            "sentence": "The train station was _______ during the holiday.\n휴일 동안 기차역은 붐볐다."
+        }
+    },
+    {
+        "word": "phase",
+        "descriptions": {
+            "meaning_k": "(달 행성 등의) 상, 위상",
+            "meaning_e": "one stage of the Moon or a small planet as it moves relative to the Sun",
+            "sentence": "The changing shapes of the Moon are called ______.\n달의 변화하는 모양을 위상이라고 한다."
+        }
+    },
+    {
+        "word": "supply",
+        "descriptions": {
+            "meaning_k": "(수요에 대한) 공급",
+            "meaning_e": "an amount of goods and services that is available to be used",
+            "sentence": "Inflation usually happens when demand increases more than ______.\n인플레이션은 보통 수요가 공급보다 더 많이 증가할 때 발생한다."
+        }
+    },
+    {
+        "word": "decision",
+        "descriptions": {
+            "meaning_k": "결정, 판단",
+            "meaning_e": "a choice that one has made",
+            "sentence": "My family supported my ________ to study abroad.\n우리 가족은 유학을 가겠다는 나의 결정을 지지했다."
+        }
+    },
+    {
+        "word": "lunar",
+        "descriptions": {
+            "meaning_k": "달의, 음력의",
+            "meaning_e": "of the Moon",
+            "sentence": "I specialize in taking photos of the _____ surface.\n나는 달 표면 사진을 찍는 데 전문이다."
+        }
+    },
+    {
+        "word": "loss",
+        "descriptions": {
+            "meaning_k": "손실, 상실",
+            "meaning_e": "losing something",
+            "sentence": "He suffered from a ____ of sight after the accident.\n그는 사고 후에 시력 상실로 고통을 겪었다."
+        }
+    },
+    {
+        "word": "advance",
+        "descriptions": {
+            "meaning_k": "전진, 진보",
+            "meaning_e": "an improvement or development in something",
+            "sentence": "________ in technology have changed our lives.\n기술의 진보가 우리의 생활을 바꾸고 있다."
+        }
+    },
+    {
+        "word": "amazed",
+        "descriptions": {
+            "meaning_k": "놀란",
+            "meaning_e": "feeling great surprise",
+            "sentence": "I was ______ to see the boy going skydiving.\n나는 그 소년이 스카이다이빙을 하는 것을 보고 놀랐다."
+        }
+    },
+    {
+        "word": "salary",
+        "descriptions": {
+            "meaning_k": "월급, 급여",
+            "meaning_e": "the amount of money an employee is paid",
+            "sentence": "Dad buys me a toy every time he gets his ______.\n아빠는 월급을 받을 때마다 나에게 장난감을 사 준다."
+        }
+    },
+    {
+        "word": "spine",
+        "descriptions": {
+            "meaning_k": "가시",
+            "meaning_e": "a thorn",
+            "sentence": "A cactus is a plant that is covered in ______.\n선인장은 가시로 뒤덮인 식물이다."
+        }
+    },
+    {
+        "word": "spine",
+        "descriptions": {
+            "meaning_k": "척추, 등뼈",
+            "meaning_e": "the backbone",
+            "sentence": "The doctor took an x-ray of his patient's _____.\n그 의사는 환자의 척추 엑스레이를 찍었다."
+        }
+    }
+]

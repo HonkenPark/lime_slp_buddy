@@ -1,0 +1,90 @@
+[
+    {
+        "word": "educate",
+        "descriptions": {
+            "meaning_k": "교육하다",
+            "meaning_e": "to train to provide knowledge or skill",
+            "sentence": "Sophia was ________ at a private school.\n소피아는 사립학교에서 교육받았다."
+        }
+    },
+    {
+        "word": "wilderness",
+        "descriptions": {
+            "meaning_k": "황무지, 황야",
+            "meaning_e": "an area where few people live",
+            "sentence": "This is the last piece of untouched __________.\n여기가 훼손되지 않은 마지막 황무지다."
+        }
+    },
+    {
+        "word": "episode",
+        "descriptions": {
+            "meaning_k": "사건, 에피소드",
+            "meaning_e": "an event during which something happens",
+            "sentence": "That is an _______ in my life that I want to forget.\n그것은 내 인생에서 잊고 싶은 사건이다."
+        }
+    },
+    {
+        "word": "provide",
+        "descriptions": {
+            "meaning_k": "제공하다",
+            "meaning_e": "to give someone what they need or want",
+            "sentence": "Trees _______ us with healthier neighborhoods.\n나무는 우리에게 더 건강한 주변 환경을 제공한다."
+        }
+    },
+    {
+        "word": "persuade",
+        "descriptions": {
+            "meaning_k": "설득하다",
+            "meaning_e": "to make someone agree to do something",
+            "sentence": "She _________ him to come home before 9 p.m.\n그녀는 밤 9시 전까지 집에 오라고 그를 설득했다."
+        }
+    },
+    {
+        "word": "secretary",
+        "descriptions": {
+            "meaning_k": "비서",
+            "meaning_e": "a person who works in an office for another person",
+            "sentence": "The boss asked his _________ to let him know his next appointment.\n그 사장은 비서에게 다음 약속을 알려 달라고 요청했다."
+        }
+    },
+    {
+        "word": "although",
+        "descriptions": {
+            "meaning_k": "비록 ~일지라도",
+            "meaning_e": "despite the fact that",
+            "sentence": "________ she is scared of heights, Kelly loves going climbing.\n켈리는 높은 곳을 무서워하지만 등산을 좋아한다."
+        }
+    },
+    {
+        "word": "encyclopedia",
+        "descriptions": {
+            "meaning_k": "백과사전",
+            "meaning_e": "a book containing facts on many topics",
+            "sentence": "I looked up the writer in the online ____________.\n나는 온라인 백과사전에서 그 작가에 대해 찾아보았다."
+        }
+    },
+    {
+        "word": "embassy",
+        "descriptions": {
+            "meaning_k": "대사관",
+            "meaning_e": "a group of officials who represent their country in a foreign country",
+            "sentence": "I called the _______ because I lost my passport.\n나는 여권을 잃어버려서 대사관에 전화했다."
+        }
+    },
+    {
+        "word": "adopt",
+        "descriptions": {
+            "meaning_k": "(특정 방식을) 쓰다, 택하다",
+            "meaning_e": "to accept or start to use something new",
+            "sentence": "The government _______ a new method to solve environmental problems.\n정부는 환경 문제를 해결하기 위해 새로운 방법을 도입했다."
+        }
+    },
+    {
+        "word": "adopt",
+        "descriptions": {
+            "meaning_k": "입양하다",
+            "meaning_e": "to take another person's child into one's family",
+            "sentence": "Sally and her husband became parents when they _______ a baby girl.\n샐리와 그녀의 남편이 한 여자 아기를 입양했을 때 그들은 부모가 되었다."
+        }
+    }
+]

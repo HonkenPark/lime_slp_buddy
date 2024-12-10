@@ -1,0 +1,98 @@
+[
+    {
+        "word": "blade",
+        "descriptions": {
+            "meaning_k": "(칼의) 날",
+            "meaning_e": "the sharp part of a knife",
+            "sentence": "Be careful not to cut your finger on a sharp _____.\n날카로운 칼날에 손가락을 베지 않도록 주의해라."
+        }
+    },
+    {
+        "word": "pretend",
+        "descriptions": {
+            "meaning_k": "(~ 하는) 척하다",
+            "meaning_e": "to act as if something is true",
+            "sentence": "Kevin _________ to be asleep when his brother came home.\n케빈은 형이 집에 돌아왔을 때 자는 척했다."
+        }
+    },
+    {
+        "word": "fright",
+        "descriptions": {
+            "meaning_k": "놀람, 두려움",
+            "meaning_e": "fear",
+            "sentence": "I got a ______ when I saw lightning strike the tree.\n나는 번개가 나무에 치는 것을 보고 깜짝 놀랐다."
+        }
+    },
+    {
+        "word": "voluntary",
+        "descriptions": {
+            "meaning_k": "자발적인, 자원봉사의",
+            "meaning_e": "done by choice; done without being paid",
+            "sentence": "She did some _________ work at the library.\n그녀는 도서관에서 자원봉사 활동을 했다."
+        }
+    },
+    {
+        "word": "offend",
+        "descriptions": {
+            "meaning_k": "불쾌하게 하다",
+            "meaning_e": "to cause someone to be angry or upset",
+            "sentence": "The customer's bad behavior ________ me.\n그 손님의 무례한 행동이 나를 불쾌하게 했다."
+        }
+    },
+    {
+        "word": "occur",
+        "descriptions": {
+            "meaning_k": "일어나다, 발생하다",
+            "meaning_e": "to happen",
+            "sentence": "Earthquakes ________ several times in this area.\n이 지역에서는 지진이 여러 번 발생했다."
+        }
+    },
+    {
+        "word": "strip",
+        "descriptions": {
+            "meaning_k": "가느다란 조각, 끈",
+            "meaning_e": "a long narrow piece, such as cloth or paper",
+            "sentence": "The girl used a _____ of paper as a bookmark.\n그 소녀는 가는 종이 조각을 책갈피로 사용했다."
+        }
+    },
+    {
+        "word": "universal",
+        "descriptions": {
+            "meaning_k": "보편적인, 전 세계의",
+            "meaning_e": "affecting everyone in the world",
+            "sentence": "Music has been called the ________ language.\n음악은 세계 공통어라고 불려 왔다."
+        }
+    },
+    {
+        "word": "lyric",
+        "descriptions": {
+            "meaning_k": "서정시",
+            "meaning_e": "a poem revealing feelings",
+            "sentence": "He wrote a _____ poem about life and death.\n그는 삶과 죽음에 대한 서정시를 한 편 썼다."
+        }
+    },
+    {
+        "word": "lyric",
+        "descriptions": {
+            "meaning_k": "(노래) 가사",
+            "meaning_e": "the words of a song",
+            "sentence": "Amy memorized all the ______ of her favorite song.\n에이미는 그녀가 가장 좋아하는 노래의 가사를 모두 외웠다."
+        }
+    },
+    {
+        "word": "degree",
+        "descriptions": {
+            "meaning_k": "(각도 온도 등의) 도",
+            "meaning_e": "a unit for measuring temperature or angle",
+            "sentence": "The temperature will drop to 4 _______ today.\n오늘 기온이 영하 4도까지 내려갈 것이다."
+        }
+    },
+    {
+        "word": "degree",
+        "descriptions": {
+            "meaning_k": "학위",
+            "meaning_e": "a document one receives upon graduating",
+            "sentence": "I graduated from college with a ______ in physics.\n나는 물리학 학위를 가지고 대학을 졸업했다."
+        }
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "word": "pride",
+        "descriptions": {
+            "meaning_k": "자부심, 긍지",
+            "meaning_e": "a feeling of self-worth",
+            "sentence": "She took _____ in being a member of the national hockey team.\n그녀는 국가 대표 하키팀의 일원이 된 것에 자부심을 느꼈다."
+        }
+    },
+    {
+        "word": "proof",
+        "descriptions": {
+            "meaning_k": "증거, 증명",
+            "meaning_e": "information that shows something is true",
+            "sentence": "I found _____ that she had stolen the bag.\n나는 그녀가 가방을 훔쳤다는 증거를 찾았다."
+        }
+    },
+    {
+        "word": "flood",
+        "descriptions": {
+            "meaning_k": "홍수, 범람",
+            "meaning_e": "a large amount of water covering an area",
+            "sentence": "We were trapped when the _____ covered the trails with water.\n물이 범람하여 등산로가 잠겨 우리는 갇혀 버렸다."
+        }
+    },
+    {
+        "word": "law",
+        "descriptions": {
+            "meaning_k": "법, 법률",
+            "meaning_e": "rules that people in a society have to follow",
+            "sentence": "The ___ should be equal and fair to everyone.\n법은 누구에게나 평등하고 공평해야 한다."
+        }
+    },
+    {
+        "word": "rural",
+        "descriptions": {
+            "meaning_k": "시골의, 지방의",
+            "meaning_e": "relating to the country",
+            "sentence": "They have lived a peaceful life in the _____ area.\n그들은 시골 지역에서 평화로운 삶을 살아 왔다."
+        }
+    },
+    {
+        "word": "spoil",
+        "descriptions": {
+            "meaning_k": "망치다",
+            "meaning_e": "to ruin",
+            "sentence": "The sudden rain _______ the town festival.\n갑작스러운 비 때문에 마을 축제를 망쳤다."
+        }
+    },
+    {
+        "word": "boil",
+        "descriptions": {
+            "meaning_k": "끓다, 끓이다",
+            "meaning_e": "to change from a liquid to a gas by heating",
+            "sentence": "When you ____ the water, put a lid on the pot.\n물을 끓일 때는 냄비 위에 뚜껑을 덮어라."
+        }
+    },
+    {
+        "word": "axis",
+        "descriptions": {
+            "meaning_k": "(중심) 축",
+            "meaning_e": "an imaginary line on which an object turns",
+            "sentence": "The Earth revolves around its ____ once a day.\n지구는 하루에 한 번 축을 중심으로 자전한다."
+        }
+    },
+    {
+        "word": "arouse",
+        "descriptions": {
+            "meaning_k": "(느낌을) 불러일으키다",
+            "meaning_e": "to make someone feel something",
+            "sentence": "The cat in the street _______ our sympathy.\n길고양이가 우리의 동정심을 불러일으켰다."
+        }
+    },
+    {
+        "word": "mean",
+        "descriptions": {
+            "meaning_k": "의미하다",
+            "meaning_e": "to have a certain meaning",
+            "sentence": "When the trafic light turns green, it _____ \"go\".\n교통 신호에 녹색등이 켜지면 \"가라\"는 뜻이다."
+        }
+    },
+    {
+        "word": "mean",
+        "descriptions": {
+            "meaning_k": "심술궂은, 못된",
+            "meaning_e": "not kind",
+            "sentence": "My sister's ____ words made me very angry.\n내 여동생의 못된 말은 나를 매우 화나게 했다."
+        }
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "word": "cancer",
+        "descriptions": {
+            "meaning_k": "암",
+            "meaning_e": "a disease that causes cells to grow fast",
+            "sentence": "______ destroyed his body but not his spirit.\n암은 그의 몸을 망가뜨렸지만 그의 정신은 망가뜨리지 못했다."
+        }
+    },
+    {
+        "word": "mature",
+        "descriptions": {
+            "meaning_k": "성숙한",
+            "meaning_e": "fully grown",
+            "sentence": "Tom is ______ and thoughtful for his age.\n톰은 나이에 비해 성숙하고 사려 깊다."
+        }
+    },
+    {
+        "word": "depart",
+        "descriptions": {
+            "meaning_k": "떠나다, 출발하다",
+            "meaning_e": "to leave",
+            "sentence": "The airplane ________ from London to Athens.\n그 비행기는 런던을 떠나 아테네로 출발했다."
+        }
+    },
+    {
+        "word": "sensible",
+        "descriptions": {
+            "meaning_k": "분별 있는, 합리적인",
+            "meaning_e": "having good judgment",
+            "sentence": "The only ________ advice at this point is to stop.\n이 시점에서 유일하게 합리적인 조언은 멈추라는 것이다."
+        }
+    },
+    {
+        "word": "transfer",
+        "descriptions": {
+            "meaning_k": "옮기다, 이동하다",
+            "meaning_e": "to move from one place to another",
+            "sentence": "l am afraid of ____________ to a new school.\n나는 새 학교로 전학을 가는 것이 두렵다."
+        }
+    },
+    {
+        "word": "oppose",
+        "descriptions": {
+            "meaning_k": "반대하다",
+            "meaning_e": "to be against something",
+            "sentence": "The villagers _______ the building of a bridge.\n마을 사람들은 다리를 건설하는 것에 반대했다."
+        }
+    },
+    {
+        "word": "border",
+        "descriptions": {
+            "meaning_k": "(경계를) 접하다",
+            "meaning_e": "to be next to another region",
+            "sentence": "Sweden _______ Norway and Finland.\n스웨덴은 노르웨이, 핀란드와 국경을 접하고 있다."
+        }
+    },
+    {
+        "word": "owe",
+        "descriptions": {
+            "meaning_k": "(돈 등을) 빚지다",
+            "meaning_e": "to have to give someone back money or things",
+            "sentence": "She still ____ the bank more than $3,000.\n그녀는 아직도 은행에 3천 달러 이상을 빚지고 있다."
+        }
+    },
+    {
+        "word": "herd",
+        "descriptions": {
+            "meaning_k": "(동물의) 떼, 무리",
+            "meaning_e": "a group of animals",
+            "sentence": "The national park has a ____ of elephants.\n그 국립공원에는 한 무리의 코끼리 떼가 있다."
+        }
+    },
+    {
+        "word": "herd",
+        "descriptions": {
+            "meaning_k": "(짐승을) 몰다",
+            "meaning_e": "to gather and move animals in groups",
+            "sentence": "Sheep dogs ____ sheep around the ranch.\n양치기 개들이 목장 주위로 양떼를 몰고 다닌다."
+        }
+    },
+    {
+        "word": "observe",
+        "descriptions": {
+            "meaning_k": "관찰하다",
+            "meaning_e": "to notice something",
+            "sentence": "Students ________ a partial solar eclipse with me.\n학생들은 나와 함께 부분일식을 관찰했다."
+        }
+    },
+    {
+        "word": "observe",
+        "descriptions": {
+            "meaning_k": "준수하다, 지키다",
+            "meaning_e": "to obey a rule",
+            "sentence": "We need to _______ the rules for everyone's safety.\n우리는 모두의 안전을 위해 규칙을 지켜야 한다."
+        }
+    }
+]

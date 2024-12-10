@@ -1,0 +1,98 @@
+[
+    {
+        "word": "population",
+        "descriptions": {
+            "meaning_k": "인구",
+            "meaning_e": "the number of people living in an area",
+            "sentence": "The __________ continues to increase in Africa.\n아프리카의 인구는 계속해서 증가하고 있다."
+        }
+    },
+    {
+        "word": "ordinary",
+        "descriptions": {
+            "meaning_k": "보통의, 평범한",
+            "meaning_e": "normal or usual",
+            "sentence": "The superstar wanted to live an ________ life.\n그 슈퍼스타는 평범한 삶을 살고 싶었다."
+        }
+    },
+    {
+        "word": "journalist",
+        "descriptions": {
+            "meaning_k": "(신문·방송) 기자",
+            "meaning_e": "a person who collects and writes news reports",
+            "sentence": "I'd like to be a __________ because I love writing.\n나는 글쓰기를 좋아하기 때문에 기자가 되고 싶다."
+        }
+    },
+    {
+        "word": "incident",
+        "descriptions": {
+            "meaning_k": "사건, 일어난 일",
+            "meaning_e": "an event",
+            "sentence": "After the ________, the boy avoids strangers.\n그 사건 이후로 그 소년은 낯선 사람을 피한다."
+        }
+    },
+    {
+        "word": "backward",
+        "descriptions": {
+            "meaning_k": "뒤로, 거꾸로",
+            "meaning_e": "toward the back",
+            "sentence": "I leaned ________ in my chair and relaxed.\n나는 의자에 몸을 뒤로 젖히고 앉아 쉬었다."
+        }
+    },
+    {
+        "word": "preparation",
+        "descriptions": {
+            "meaning_k": "준비",
+            "meaning_e": "the act of getting ready for something",
+            "sentence": "Traveling abroad requires a lot of ___________.\n해외여행은 많은 준비가 필요하다."
+        }
+    },
+    {
+        "word": "astronomer",
+        "descriptions": {
+            "meaning_k": "천문학자",
+            "meaning_e": "a scientist who studies the stars and planets",
+            "sentence": "The __________ loves looking for meteor showers.\n그 천문학자는 유성우를 찾아다니는 것을 좋아한다."
+        }
+    },
+    {
+        "word": "bundle",
+        "descriptions": {
+            "meaning_k": "묶음, 꾸러미",
+            "meaning_e": "a group of things tied together",
+            "sentence": "They sent a ______ of flowers for their parents' wedding anniversary.\n그들은 부모님의 결혼기념일을 맞아 꽃다발을 보냈다."
+        }
+    },
+    {
+        "word": "cabin",
+        "descriptions": {
+            "meaning_k": "객실, 선실",
+            "meaning_e": "a small room in a ship or airplane",
+            "sentence": "As the waves rose, the passengers entered the _____ immediately.\n파도가 높아지자 승객들은 즉시 선실로 들어갔다."
+        }
+    },
+    {
+        "word": "cabin",
+        "descriptions": {
+            "meaning_k": "오두막집",
+            "meaning_e": "a small simple wooden house",
+            "sentence": "The _____ was used by hunters in winter.\n그 오두막집은 겨울에 사냥꾼들이 이용했다."
+        }
+    },
+    {
+        "word": "approach",
+        "descriptions": {
+            "meaning_k": "다가가다",
+            "meaning_e": "to get closer to something",
+            "sentence": "He was frightened to see a big dog ___________.\n그는 큰 개가 다가오는 것을 보고 겁을 먹었다."
+        }
+    },
+    {
+        "word": "approach",
+        "descriptions": {
+            "meaning_k": "접근(법)",
+            "meaning_e": "a way of considering or doing something",
+            "sentence": "The engineer suggested another ________ to making flying cars safer.\n그 기술자는 더 안전한 비행자동차 제작에 대한 다른 접근법을 제시했다."
+        }
+    }
+]

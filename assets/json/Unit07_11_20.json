@@ -1,0 +1,90 @@
+[
+    {
+        "word": "serious",
+        "descriptions": {
+            "meaning_k": "심각한, 진지한",
+            "meaning_e": "important and deserving attention",
+            "sentence": "The storm caused _______ damage to the house.\n폭풍은 그 집에 심각한 손상을 입혔다."
+        }
+    },
+    {
+        "word": "series",
+        "descriptions": {
+            "meaning_k": "연속, 시리즈",
+            "meaning_e": "a set of related things that come one after the other",
+            "sentence": "The new TV ______ is popular among teenagers.\n그 새로운 텔레비전 시리즈는 십 대들 사이에서 인기 있다."
+        }
+    },
+    {
+        "word": "diligent",
+        "descriptions": {
+            "meaning_k": "부지런한",
+            "meaning_e": "careful and using a lot of effort",
+            "sentence": "The ________ farmer works from dawn to evening.\n그 부지런한 농부는 새벽부터 저녁까지 일한다."
+        }
+    },
+    {
+        "word": "prove",
+        "descriptions": {
+            "meaning_k": "증명하다",
+            "meaning_e": "to show something to be true",
+            "sentence": "Magellan ______ that the Earth is round through his voyages.\n마젤란은 그의 항해를 통해 지구가 둥글다는 것을 증명했다."
+        }
+    },
+    {
+        "word": "shame",
+        "descriptions": {
+            "meaning_k": "부끄러움, 수치심",
+            "meaning_e": "an uncomfortable feeling because one did something wrong",
+            "sentence": "She turned red with _____ before the stranger.\n그녀는 낯선 사람 앞에서 부끄러움으로 얼굴이 빨개졌다."
+        }
+    },
+    {
+        "word": "delay",
+        "descriptions": {
+            "meaning_k": "미루다, 연기하다",
+            "meaning_e": "to make something late",
+            "sentence": "The trip was _______ because of the typhoon.\n태풍 때문에 여행이 연기되었다."
+        }
+    },
+    {
+        "word": "lessen",
+        "descriptions": {
+            "meaning_k": "줄이다, 완화하다",
+            "meaning_e": "to become less strong",
+            "sentence": "This medication will ______ your muscle pain.\n이 약은 근육통을 줄여 줄 것이다."
+        }
+    },
+    {
+        "word": "supervise",
+        "descriptions": {
+            "meaning_k": "감독하다",
+            "meaning_e": "to make sure that an activity is done correctly",
+            "sentence": "The manager _________ the staff all day long.\n그 관리자는 하루 종일 직원들을 감독했다."
+        }
+    },
+    {
+        "word": "disguise",
+        "descriptions": {
+            "meaning_k": "변장하다",
+            "meaning_e": "to change one's looks to look like someone else",
+            "sentence": "She _________ herself as a man with a mustache.\n그녀는 콧수염으로 남자처럼 변장했다."
+        }
+    },
+    {
+        "word": "aged",
+        "descriptions": {
+            "meaning_k": "나이 든, 오래된",
+            "meaning_e": "very old",
+            "sentence": "My father's ____ car broke down often.\n나의 아버지의 오래된 차는 자주 고장이 났다."
+        }
+    },
+    {
+        "word": "aged",
+        "descriptions": {
+            "meaning_k": "~ 세의",
+            "meaning_e": "being the age of",
+            "sentence": "Only children ____ between 5 to 13 can ride on the merry-go-round.\n5세에서 13세 사이의 아이들만이 회전목마를 탈 수 있다."
+        }
+    }
+]

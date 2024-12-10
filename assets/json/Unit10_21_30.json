@@ -1,0 +1,98 @@
+[
+    {
+        "word": "anxious",
+        "descriptions": {
+            "meaning_k": "불안해하는",
+            "meaning_e": "feeling nervous or worried",
+            "sentence": "The kid was _______ and wanted to go home.\n그 아이는 불안해하면서 집에 가고 싶어 했다."
+        }
+    },
+    {
+        "word": "knowledge",
+        "descriptions": {
+            "meaning_k": "지식",
+            "meaning_e": "information about a subject that a person gets by experience or study",
+            "sentence": "You need some background _________ to understand this book.\n이 책을 이해하기 위해서는 약간의 배경지식이 필요하다."
+        }
+    },
+    {
+        "word": "signature",
+        "descriptions": {
+            "meaning_k": "서명",
+            "meaning_e": "one's name written in a special way",
+            "sentence": "He wrote his _________ at the bottom of the page.\n그는 페이지의 아랫부분에 서명을 했다."
+        }
+    },
+    {
+        "word": "chemical",
+        "descriptions": {
+            "meaning_k": "화학 물질",
+            "meaning_e": "a substance made by a chemical process",
+            "sentence": "When you laugh, your brain releases _________ called endorphins.\n네가 웃을 때, 뇌는 엔도르핀이라는 화학 물질을 내보낸다."
+        }
+    },
+    {
+        "word": "chemical",
+        "descriptions": {
+            "meaning_k": "화학의",
+            "meaning_e": "relating to chemistry",
+            "sentence": "A fire started during a ________ experiment.\n화학 실험 도중에 불이 시작되었다."
+        }
+    },
+    {
+        "word": "necessary",
+        "descriptions": {
+            "meaning_k": "필요한",
+            "meaning_e": "needed to do something",
+            "sentence": "Water is _________ to survive on a desert island.\n무인도에서 살아남기 위해서는 물이 필요하다."
+        }
+    },
+    {
+        "word": "luxurious",
+        "descriptions": {
+            "meaning_k": "호화로운, 사치스러운",
+            "meaning_e": "very expensive and comfortable",
+            "sentence": "The Titanic was one of the most _________ ocean liners of its time.\n타이타닉호는 그 시대에 가장 호화로운 여객선 중 하나였다."
+        }
+    },
+    {
+        "word": "landscape",
+        "descriptions": {
+            "meaning_k": "풍경",
+            "meaning_e": "the view of an area",
+            "sentence": "The view of the _________ from the top looked calm and peaceful.\n꼭대기에서 바라본 풍경은 고요하고 평화로워 보였다."
+        }
+    },
+    {
+        "word": "especially",
+        "descriptions": {
+            "meaning_k": "특히, 특별히",
+            "meaning_e": "in particular",
+            "sentence": "The course is __________ suitable for beginners.\n그 과정은 특히 초보자들에게 적합하다."
+        }
+    },
+    {
+        "word": "characteristic",
+        "descriptions": {
+            "meaning_k": "특징, 특질",
+            "meaning_e": "the quality of a person or thing",
+            "sentence": "A high fever is a ______________ of the disease.\n고열은 그 질병의 특징이다."
+        }
+    },
+    {
+        "word": "quality",
+        "descriptions": {
+            "meaning_k": "특성, 자질",
+            "meaning_e": "a characteristic of a person or thing",
+            "sentence": "Honesty is an important _______ in friendship.\n정직함은 우정에 있어 중요한 자질이다."
+        }
+    },
+    {
+        "word": "quality",
+        "descriptions": {
+            "meaning_k": "질, 품질",
+            "meaning_e": "how good or bad something is",
+            "sentence": "The wireless speaker is cheap but of good _______.\n그 무선 스피커는 저렴하지만 품질이 좋다."
+        }
+    }
+]

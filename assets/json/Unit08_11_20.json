@@ -1,0 +1,98 @@
+[
+    {
+        "word": "fume",
+        "descriptions": {
+            "meaning_k": "연기, 가스",
+            "meaning_e": "smoke or gas that is not pleasant or healthy",
+            "sentence": "I can't see anything because of the black _____.\n검은 연기 때문에 나는 아무것도 안 보인다."
+        }
+    },
+    {
+        "word": "postpone",
+        "descriptions": {
+            "meaning_k": "연기하다, 미루다",
+            "meaning_e": "to delay an event to a later date or time",
+            "sentence": "They _________ the baseball game due to rain.\n그들은 비 때문에 야구 경기를 연기했다."
+        }
+    },
+    {
+        "word": "exclude",
+        "descriptions": {
+            "meaning_k": "제외하다, 배제하다",
+            "meaning_e": "to prevent someone from taking part in an activity",
+            "sentence": "The injured player was ________ from the lineup.\n그 부상을 입은 선수는 명단에서 제외됐다."
+        }
+    },
+    {
+        "word": "access",
+        "descriptions": {
+            "meaning_k": "입장하다, 접근하다",
+            "meaning_e": "to get to and enter a place",
+            "sentence": "You need an ID card to ______ the office.\n그 사무실에 들어가기 위해서는 신분증이 필요하다."
+        }
+    },
+    {
+        "word": "suspect",
+        "descriptions": {
+            "meaning_k": "의심하다",
+            "meaning_e": "to think that something bad is true",
+            "sentence": "He _________ that the boy stole some candies.\n그는 그 소년이 사탕을 훔쳤다고 의심했다."
+        }
+    },
+    {
+        "word": "suspect",
+        "descriptions": {
+            "meaning_k": "용의자",
+            "meaning_e": "a person who is believed to be guilty",
+            "sentence": "The police arrested the _______ at the scene.\n경찰은 용의자를 현장에서 체포했다."
+        }
+    },
+    {
+        "word": "tend",
+        "descriptions": {
+            "meaning_k": "경향이 있다, (~을) 하기 쉽다",
+            "meaning_e": "to be likely to",
+            "sentence": "Tim _____ to shake his legs when he is nervous.\n팀은 긴장할 때 다리를 떠는 경향이 있다."
+        }
+    },
+    {
+        "word": "assist",
+        "descriptions": {
+            "meaning_k": "돕다",
+            "meaning_e": "to help",
+            "sentence": "The kind boy _______ an old man carry his bags.\n그 친절한 소년은 노인이 가방을 드는 것을 도와주었다."
+        }
+    },
+    {
+        "word": "delightful",
+        "descriptions": {
+            "meaning_k": "매우 기쁜, 즐거운",
+            "meaning_e": "giving joy",
+            "sentence": "Anyone can have a __________ time in this park.\n이 공원에서는 누구나 즐거운 시간을 보낼 수 있다."
+        }
+    },
+    {
+        "word": "method",
+        "descriptions": {
+            "meaning_k": "방법",
+            "meaning_e": "a planned way of doing something",
+            "sentence": "Reading is the best ______ for gaining knowledge.\n독서는 지식을 얻는 가장 좋은 방법이다."
+        }
+    },
+    {
+        "word": "mug",
+        "descriptions": {
+            "meaning_k": "(손잡이가 달린) 잔, 컵",
+            "meaning_e": "a cup with a handle",
+            "sentence": "David sat in front of the TV with a ___ of coffee.\n데이비드는 커피 한 잔을 들고 텔레비전 앞에 앉았다."
+        }
+    },
+    {
+        "word": "mug",
+        "descriptions": {
+            "meaning_k": "강도 짓을 하다",
+            "meaning_e": "to attack someone and steal their money",
+            "sentence": "We were lucky not to be ______ in this city.\n우리가 이 도시에서 강도를 당하지 않아서 다행이었다."
+        }
+    }
+]
