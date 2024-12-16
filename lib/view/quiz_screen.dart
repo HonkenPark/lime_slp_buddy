@@ -30,7 +30,7 @@ class QuizScreen extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       Text(
-                        '퀴즈가 끝났습니다. 참 잘했어요 🥰\n아빠에게 만세를 해달라고 하세요 !!',
+                        '퀴즈가 끝났습니다. 참 잘했어요 🥰\n엄마에게 로블록스를 해달라고 하세요 !!',
                         textAlign: TextAlign.center,
                         style: TextStyle(
                           color: Colors.green,
