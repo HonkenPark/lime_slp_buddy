@@ -16,6 +16,10 @@ void main() {
 
 enum QuizFileList {
   // notSelected('', ''),
+  unit03_0110('유닛3 1번-10번', 'assets/json/Unit03_01_10.json'),
+  unit03_1120('유닛3 11번-20번', 'assets/json/Unit03_11_20.json'),
+  unit03_2130('유닛3 21번-30번', 'assets/json/Unit03_21_30.json'),
+  unit04_0110('유닛4 1번-10번', 'assets/json/Unit04_01_10.json'),
   unit04_1120('유닛4 11번-20번', 'assets/json/Unit04_11_20.json'),
   unit04_2130('유닛4 21번-30번', 'assets/json/Unit04_21_30.json'),
   unit05_0110('유닛5 1번-10번', 'assets/json/Unit05_01_10.json'),

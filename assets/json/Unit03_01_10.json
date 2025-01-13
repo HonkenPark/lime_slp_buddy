@@ -1,0 +1,90 @@
+[
+    {
+        "word": "volume",
+        "descriptions": {
+            "meaning_k": "(전집류 등의 권)",
+            "meaning_e": "one book in a set of related books",
+            "sentence": "The dictionary contains over 600,000 entries and has ten _______.\n그 사전은 60만 개의 표제어를 담고 있고, 10권으로 되어 있다."
+        }
+    },
+    {
+        "word": "bitter",
+        "descriptions": {
+            "meaning_k": "맛이 쓴",
+            "meaning_e": "having a sharp, bad taste",
+            "sentence": "In general, dark chocolate is more _______ than milk chocolate.\n일반적으로 다크 초콜릿은 밀크 초콜릿보다 더 쓰다."
+        }
+    },
+    {
+        "word": "kernel",
+        "descriptions": {
+            "meaning_k": "알맹이, 낟알",
+            "meaning_e": "a whole seed, especially of corn",
+            "sentence": "The microscope has helped to make important discoveries in _______.\n팝콘은 말린 옥수수 낟알을 튀겨서 만든다."
+        }
+    },
+    {
+        "word": "aware",
+        "descriptions": {
+            "meaning_k": "알고 있는",
+            "meaning_e": "knowing something",
+            "sentence": "I'm _____ that my friends envy my new tablet PC.\n나는 친구들이 나의 새 태블릿 PC를 부러워한다는 것을 안다."  
+        }
+    },
+    {
+        "word": "shift",
+        "descriptions": {
+            "meaning_k": "이동하다, 움직이다",
+            "meaning_e": "to move or change",
+            "sentence": "We felt the ground _____ during the earthquake.\n우리는 지진이 일어날 때 땅이 움직이는 것을 느꼈다."
+        }
+    },
+    {
+        "word": "respect",
+        "descriptions": {
+            "meaning_k": "존중하다, 존경하다",
+            "meaning_e": "to show someone honor",
+            "sentence": "We should _______ other people's opinions.\n우리는 다른 사람들의 의견을 존중해야 한다."
+        }
+    },
+    {
+        "word": "thrill",
+        "descriptions": {
+            "meaning_k": "흥분시키다",
+            "meaning_e": "to make someone feel excited or happy",
+            "sentence": "Fans were _______ to meet the singer in person.\n팬들은 그 가수를 직접 만난다는 생각에 흥분했다."
+        }
+    },
+    {
+        "word": "exact",
+        "descriptions": {
+            "meaning_k": "정확한",
+            "meaning_e": "completely correct or accurate",
+            "sentence": "I don't know the ______ date of the final exam.\n나는 기말고사의 정확한 날짜를 모른다."
+        }
+    },
+    {
+        "word": "composition",
+        "descriptions": {
+            "meaning_k": "구성 (요소)",
+            "meaning_e": "the way in which something is arranged",
+            "sentence": "This small machine has a simple ___________.\n이 작은 기계는 구성이 단순하다."
+        }
+    },
+    {
+        "word": "composition",
+        "descriptions": {
+            "meaning_k": "(음악.미술) 작품",
+            "meaning_e": "a written piece of music, poem, or writing",
+            "sentence": "The orchestra plans to perform a ___________ by Mozart.\n그 오케스트라는 모차르트의 곡을 연주할 계획이다."
+        }
+    },
+    {
+        "word": "fake",
+        "descriptions": {
+            "meaning_k": "가짜의, 거짓된",
+            "meaning_e": "not real, but made to look real",
+            "sentence": "The painting she bought turned out to be ____.\n그녀가 산 그림은 가짜로 판명되었다."
+        }
+    }
+]

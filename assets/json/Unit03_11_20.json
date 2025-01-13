@@ -1,0 +1,90 @@
+[
+    {
+        "word": "physics",
+        "descriptions": {
+            "meaning_k": "물리학",
+            "meaning_e": "the study of matter and energy",
+            "sentence": "He studied _______ to learn how the world works.\n그는 세상이 어떻게 돌아가는지 배우기 위해 물리학을 공부했다."
+        }
+    },
+    {
+        "word": "confusing",
+        "descriptions": {
+            "meaning_k": "혼란스러운",
+            "meaning_e": "hard to understand",
+            "sentence": "_________ traffic signs can cause accidents.\n혼란스러운 교통 표지판은 사고를 일으킬 수 있다."
+        }
+    },
+    {
+        "word": "license",
+        "descriptions": {
+            "meaning_k": "면허, 면허증",
+            "meaning_e": "a formal permission to do something",
+            "sentence": "Yor are too young to get your driver's _______.\n너는 운전면허를 따기에는 너무 어리다."
+        }
+    },
+    {
+        "word": "cancel",
+        "descriptions": {
+            "meaning_k": "취소하다",
+            "meaning_e": "to say that something won't happen",
+            "sentence": "The golf game was ________ due to rain.\n그 골프 경기는 비 때문에 취소되었다."  
+        }
+    },
+    {
+        "word": "portrait",
+        "descriptions": {
+            "meaning_k": "초상화, 인물사진",
+            "meaning_e": "a painting of a person",
+            "sentence": "I saw the _________ of the king in the museum.\n나는 박물관에서 그 왕의 초상화들을 보았다."
+        }
+    },
+    {
+        "word": "inform",
+        "descriptions": {
+            "meaning_k": "알리다, 통지하다",
+            "meaning_e": "to give knowledge to others",
+            "sentence": "I _______ Dad that today is Mom's birthday.\n나는 아빠에게 오늘이 엄마의 생일이라고 알려 주었다."
+        }
+    },
+    {
+        "word": "suggest",
+        "descriptions": {
+            "meaning_k": "제안하다,제의하다",
+            "meaning_e": "to offer an idea for someone to think about",
+            "sentence": "He _________ that I take the children to the zoo.\n그는 내가 아이들을 동물원에 데려가길 제안했다."
+        }
+    },
+    {
+        "word": "medical",
+        "descriptions": {
+            "meaning_k": "의학의, 의료의",
+            "meaning_e": "relating to the treatment of diseases",
+            "sentence": "The man needed immediate _______ treatment.\n그 남자는 즉각적인 의학적 치료가 필요했다."
+        }
+    },
+    {
+        "word": "faith",
+        "descriptions": {
+            "meaning_k": "믿음, 신뢰",
+            "meaning_e": "trust of confidence",
+            "sentence": "The players had _____ that they would win.\n그 선수들은 자신들이 이길 것이라는 믿음을 가지고 있었다."
+        }
+    },
+    {
+        "word": "issue",
+        "descriptions": {
+            "meaning_k": "주제, 문제",
+            "meaning_e": "a subject that is being talked about",
+            "sentence": "She enjoys discussing environmental ______.\n그녀는 환경 문제에 대해 논의하는 것을 즐긴다."
+        }
+    },
+    {
+        "word": "issue",
+        "descriptions": {
+            "meaning_k": "(정기 간행물의) 호)",
+            "meaning_e": "one of a regular series of magazines",
+            "sentence": "I was looking for the July _____ of the magazine.\n나는 그 잡지의 7월호를 찾고 있었다."
+        }
+    }
+]

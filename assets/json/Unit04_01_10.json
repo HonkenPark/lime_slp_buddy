@@ -1,0 +1,90 @@
+[
+    {
+        "word": "wool",
+        "descriptions": {
+            "meaning_k": "털, 양털",
+            "meaning_e": "the thick, soft hair of sheep",
+            "sentence": "Jackson felt freezing even is a ____ coat.\n잭슨은 양털 코드틀 입고도 추웠다."
+        }
+    },
+    {
+        "word": "section",
+        "descriptions": {
+            "meaning_k": "부분, 구획",
+            "meaning_e": "a part of a whole",
+            "sentence": "This concert hall is divided into _______ A and B.\n이 공연장은 A 구역과 B 구역으로 나뉜다."
+        }
+    },
+    {
+        "word": "balance",
+        "descriptions": {
+            "meaning_k": "균형",
+            "meaning_e": "the ability to keep an equal amount of weight on both sides",
+            "sentence": "The dancer lost his _______ and fell on the floor.\n그 무용수는 균형을 잃고 바닥에 쓰러졌다."
+        }
+    },
+    {
+        "word": "hire",
+        "descriptions": {
+            "meaning_k": "고용하다, 채용하다",
+            "meaning_e": "to give someone a job",
+            "sentence": "The owner _____ a famous chef for his restaurant.\n그 주인은 자신의 식당에 유명 유리사를 고용했다."  
+        }
+    },
+    {
+        "word": "youth",
+        "descriptions": {
+            "meaning_k": "젊음, 젊은이",
+            "meaning_e": "the time of life when some is young",
+            "sentence": "The chairman had a lot of experience in spite of his _____.\n그 회장은 젊은 나이임에도 불구하고 경험이 많았다."
+        }
+    },
+    {
+        "word": "climate",
+        "descriptions": {
+            "meaning_k": "기후",
+            "meaning_e": "the normal weather conditions of a place",
+            "sentence": "He moved north to enjoy the cooler _______.\n그는 더 시원한 기후를 즐기기 위해 북쪽으로 이사했다."
+        }
+    },
+    {
+        "word": "nightmare",
+        "descriptions": {
+            "meaning_k": "악몽",
+            "meaning_e": "a scary dream",
+            "sentence": "I get __________ after I watch horror movies.\n나는 공포 영화를 본 후에 악몽을 꾼다."
+        }
+    },
+    {
+        "word": "wisdom",
+        "descriptions": {
+            "meaning_k": "지혜, 현명함",
+            "meaning_e": "the condition of being wise",
+            "sentence": "His ______ comes from a lot of reading.\n그의 지혜는 많은 독서에서 비롯된다."
+        }
+    },
+    {
+        "word": "accept",
+        "descriptions": {
+            "meaning_k": "받아들이다, 받다",
+            "meaning_e": "to take something that has been offered",
+            "sentence": "The actor _________ the award and gave a speech.\n그 배우는 상을 받고 연설을 했다."
+        }
+    },
+    {
+        "word": "confidence",
+        "descriptions": {
+            "meaning_k": "신뢰",
+            "meaning_e": "belief in someone",
+            "sentence": "The coach has full __________ in his players.\n그 코치는 선수들을 전적으로 신뢰한다."
+        }
+    },
+    {
+        "word": "confidence",
+        "descriptions": {
+            "meaning_k": "자신감",
+            "meaning_e": "the feeling that one can succeed",
+            "sentence": "Tom gined __________ after he started working.\n톰은 일을 시작한 후 자신감을 얻었다."
+        }
+    }
+]

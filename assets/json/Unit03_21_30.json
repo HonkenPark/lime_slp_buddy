@@ -1,0 +1,90 @@
+[
+    {
+        "word": "responsible",
+        "descriptions": {
+            "meaning_k": "책임이 있는",
+            "meaning_e": "having the job of taking care of something or someone",
+            "sentence": "Paul is ___________ for feeding the dog.\n폴은 개에게 먹이를 주는 일을 책임지고 있다."
+        }
+    },
+    {
+        "word": "professional",
+        "descriptions": {
+            "meaning_k": "직업의, 전문적인",
+            "meaning_e": "relating to work that needs special training",
+            "sentence": "A ____________ counselor will give some advice.\n전문상담가가 몇 가지 조언을 해 줄 것이다."
+        }
+    },
+    {
+        "word": "impolite",
+        "descriptions": {
+            "meaning_k": "무례한, 버릇없는",
+            "meaning_e": "not having good manners",
+            "sentence": "The little boy was ________ to everyone there.\n그 어린 소년은 그 곳에 있던 모든 사람들에게 무례했다."
+        }
+    },
+    {
+        "word": "support",
+        "descriptions": {
+            "meaning_k": "지지하다, 지원하다",
+            "meaning_e": "to give help to someone or something",
+            "sentence": "My parent always trust and _______ me.\n나의 부모님은 항상 나를 믿고 지지한다."  
+        }
+    },
+    {
+        "word": "category",
+        "descriptions": {
+            "meaning_k": "범주, 부문",
+            "meaning_e": "a group of things having the same qualities",
+            "sentence": "Pitt won the prize in the best actor ________.\n피트가 최우수 배우 부문에서 상을 받았다."
+        }
+    },
+    {
+        "word": "worldwide",
+        "descriptions": {
+            "meaning_k": "전 세계적인",
+            "meaning_e": "happening all over the world",
+            "sentence": "The story has attracted _________ attention.\n그 이야기는 전 세계적인 주목을 끌었다."
+        }
+    },
+    {
+        "word": "impress",
+        "descriptions": {
+            "meaning_k": "깊은 인상(감명)을 주다",
+            "meaning_e": "to make someone feel admiration and respect",
+            "sentence": "Picasso's father was _________ by his son's drawings.\n피카소의 아버지는 아들의 그림을 보고 감명을 받았다."
+        }
+    },
+    {
+        "word": "informal",
+        "descriptions": {
+            "meaning_k": "비공식의, 격식 없는",
+            "meaning_e": "relaxed and friendly in style and feeling",
+            "sentence": "You can wear jeans to the party because it is an ________ event.\n비공식 행사이기 때문에 청바지 차림으로 파티에 와도 된다."
+        }
+    },
+    {
+        "word": "mathematician",
+        "descriptions": {
+            "meaning_k": "수학자",
+            "meaning_e": "a person who studies and works with math",
+            "sentence": "______________ calculated the distance from Earth to Mars.\n수학자들은 지구에서 화성까지의 거리를 계산했다."
+        }
+    },
+    {
+        "word": "sort",
+        "descriptions": {
+            "meaning_k": "종류, 유형",
+            "meaning_e": "a type",
+            "sentence": "They served different _____ of food at the buffet.\n뷔페에서 다양한 종류의 음식을 제공했다."
+        }
+    },
+    {
+        "word": "sort",
+        "descriptions": {
+            "meaning_k": "분류하다",
+            "meaning_e": "to put things of the same type together",
+            "sentence": "Mail is ______ and sent to the right addresses.\n우편물은 분류되어 정확한 주소로 보내진다."
+        }
+    }
+]
